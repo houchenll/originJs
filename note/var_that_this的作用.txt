@@ -1,0 +1,1 @@
+var that = this; 的作用是什么？
